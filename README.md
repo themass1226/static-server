@@ -1,10 +1,22 @@
 # 🖥️ 静态服务器 / Static Server
 
-**随身 Web 运行环境，静态网站可直接在本机运行**
+> **随身 Web 运行环境，静态网站可直接在本机运行**
+> 
+> **A portable Web runtime. Run static websites directly on your device**
 
-**A portable Web runtime. Run static websites directly on your device**
+<div align="center">
 
 [![Download on the App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)](https://apps.apple.com/cn/app/%E9%9D%99%E6%80%81%E6%9C%8D%E5%8A%A1%E5%99%A8/id6803017610)
+
+**[📱 立即下载 / Download Now →](https://apps.apple.com/cn/app/%E9%9D%99%E6%80%81%E6%9C%8D%E5%8A%A1%E5%99%A8/id6803017610)**
+
+</div>
+
+---
+
+## 🏷️ 关键词 / Keywords
+
+`静态服务器` `Static Server` `本地服务器` `Local Server` `Web服务器` `Web Server` `HTTP服务器` `HTTP Server` `文件服务器` `File Server` `局域网文件共享` `LAN File Sharing` `WiFi文件传输` `WiFi Transfer` `前端预览` `Frontend Preview` `Vue` `React` `Vite` `Next.js` `WebAssembly` `WASM` `JupyterLite` `离线运行` `Offline` `手机服务器` `Mobile Server` `iOS开发工具` `iOS Dev Tool` `网站部署` `Web Deployment` `本地运行` `Run Locally` `iPhone服务器` `iPad服务器` `SPA` `单页应用` `静态网站托管` `Static Site Hosting` `代码预览` `Code Preview` `编程学习` `Programming Learning`
 
 ---
 
@@ -110,19 +122,33 @@ On the same local network, other devices can access the Web tools running on you
 
 ## 🎬 使用场景 / Use Cases
 
-- **高铁上给同事演示产品原型** — 不必再随身携带电脑  
-- **课堂上跑一套离线编程环境** — 手机在手，Web 工具随时可跑  
-- **用白板梳理一节课的思路** — 各种交互工具都能在手机本地运行
+- **🚄 高铁上给同事演示产品原型** — 不必再随身携带电脑
+- **📚 课堂上跑一套离线编程环境** — 手机在手，Web 工具随时可跑
+- **🎨 用白板梳理一节课的思路** — 各种交互工具都能在手机本地运行
+- **💡 快速验证前端项目** — 导入 dist 文件夹即可预览
 
-- **Demo on the train** — No need to carry a laptop  
-- **Run offline coding environment in class** — Your Web tools are ready to run anytime  
-- **Use whiteboard to organize lesson flow** — All kinds of interactive tools can run locally on your phone
+- **🚄 Demo on the train** — No need to carry a laptop
+- **📚 Run offline coding environment in class** — Your Web tools are ready to run anytime
+- **🎨 Use whiteboard to organize lesson flow** — All kinds of interactive tools can run locally on your phone
+- **💡 Quick frontend preview** — Import dist folder and preview instantly
 
 ---
 
-## 📦 下载 / Download
+## 📥 下载 / Download
+
+<div align="center">
+
+### 🍎 App Store
 
 [![Download on the App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)](https://apps.apple.com/cn/app/%E9%9D%99%E6%80%81%E6%9C%8D%E5%8A%A1%E5%99%A8/id6803017610)
+
+**[📱 点击下载 / Download Now →](https://apps.apple.com/cn/app/%E9%9D%99%E6%80%81%E6%9C%8D%E5%8A%A1%E5%99%A8/id6803017610)**
+
+**支持系统 / Supported Systems:** iOS 17.0+ | iPadOS 17.0+ | macOS 14.0+ (Apple Silicon)
+
+**价格 / Price:** 免费 / Free (含应用内购买 / In-App Purchase)
+
+</div>
 
 ---
 
@@ -132,4 +158,15 @@ MIT License
 
 ---
 
-<p align="center">Made with ❤️ by <a href="https://github.com/themass1226">Static Server Team</a></p>
+<p align="center">
+  Made with ❤️ by <a href="https://github.com/themass1226">Static Server Team</a>
+</p>
+
+<p align="center">
+  <a href="https://apps.apple.com/cn/app/%E9%9D%99%E6%80%81%E6%9C%8D%E5%8A%A1%E5%99%A8/id6803017610">
+    <img src="https://img.shields.io/badge/App%20Store-下载-blue?style=for-the-badge&logo=apple" alt="App Store">
+  </a>
+  <a href="https://github.com/themass1226/static-server">
+    <img src="https://img.shields.io/badge/GitHub-源代码-black?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+</p>
