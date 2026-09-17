@@ -14,12 +14,6 @@
 
 ---
 
-## 🏷️ 关键词 / Keywords
-
-`静态服务器` `Static Server` `本地服务器` `Local Server` `Web服务器` `Web Server` `HTTP服务器` `HTTP Server` `文件服务器` `File Server` `局域网文件共享` `LAN File Sharing` `WiFi文件传输` `WiFi Transfer` `前端预览` `Frontend Preview` `Vue` `React` `Vite` `Next.js` `WebAssembly` `WASM` `JupyterLite` `离线运行` `Offline` `手机服务器` `Mobile Server` `iOS开发工具` `iOS Dev Tool` `网站部署` `Web Deployment` `本地运行` `Run Locally` `iPhone服务器` `iPad服务器` `SPA` `单页应用` `静态网站托管` `Static Site Hosting` `代码预览` `Code Preview` `编程学习` `Programming Learning`
-
----
-
 ## ✨ 功能亮点 / Features
 
 ### 🚀 一键启动本地服务
